@@ -15,8 +15,6 @@
 
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
 
-@import url(https://s4.ezgif.com/tmp/ezgif-4ba5667acc9196ec.gif);
-
 @font-face {
 
 	font-family: 'MyCustomDaFont';
