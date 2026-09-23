@@ -84,15 +84,15 @@
 	
 	--textbrightest: 			255, 255, 255;			/* default: 255, 255, 255			(text color for the brightest texts)							*/
 	
-	--textbrighter: 			222, 222, 222;			/* default: 222, 222, 222			(text color for brighter texts)								*/
+	--textbrighter: 			193, 46, 55;			/* default: 222, 222, 222			(text color for brighter texts)								*/
 	
 	--textbright: 				200, 200, 200;			/* default: 200, 200, 200			(text color for bright texts)								*/
 	
-	--textdark: 				160, 160, 160;			/* default: 160, 160, 160			(text color for dark texts)								*/
+	--textdark: 				193, 46, 55;			/* default: 160, 160, 160			(text color for dark texts)								*/
 	
-	--textdarker: 				125, 125, 125;			/* default: 125, 125, 125			(text color for darker texts)								*/
+	--textdarker: 				193, 46, 55;			/* default: 125, 125, 125			(text color for darker texts)								*/
 	
-	--textdarkest: 				90, 90, 90;			/* default: 90, 90, 90				(text color for the darkest texts)							*/
+	--textdarkest: 				193, 46, 55;			/* default: 90, 90, 90				(text color for the darkest texts)							*/
 	
 	
 	--version1_0_5:				none;				/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE										*/
