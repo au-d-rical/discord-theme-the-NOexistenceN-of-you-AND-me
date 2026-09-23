@@ -10,7 +10,7 @@
 
 6.) paste the code below:
 
-@font-face{
+@font-face {
 
 	font-family: 'MyCustomDaFont';
 	
@@ -18,9 +18,15 @@
 	
 }
 
-*, ::placeholder, body, button, input, select, textarea{
+*, ::placeholder, body, button, input, select, textarea {
 
 	font-family:'MyCustomDaFont', sans-serif;
+	
+}
+
+:root {
+
+	--font: 				"MyCustomDaFont", "Noto Sans", sans-serif;
 	
 }
 
