@@ -11,12 +11,17 @@
 6.) paste the code below:
 
 @font-face{
+
 	font-family: 'MyCustomDaFont';
+	
 	src: url('INSERT GITHACK DEVELOPMENT LINK HERE') format('woff2');
+	
 }
 
 *, ::placeholder, body, button, input, select, textarea{
+
 	font-family:'MyCustomDaFont', sans-serif;
+	
 }
 
 7.) see where it says " INSERT ... HERE "?, replace that whole section of text with the development link BUT DO NOT REMOVE THESE SYMBOLS: (''), THIS IS THE SYNTAX FOR CSS AND IT WILL CAUSE A SYNTAX ERROR MEANING THE CODE WILL NOT WORK
